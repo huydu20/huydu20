@@ -16,7 +16,7 @@
     Welcome to my profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h5> My name is Huy Du and I'm on way to becoming a web developer. :sparkles:</h5>
+  <h3> My name is Huy Du and I'm on way to becoming a web developer. :sparkles:</h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
