@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/v%C4%83n-huy-du-a68821258/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/channel/UCMplfZd5BxMHy3Y6OVvLblg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
    </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.tiktok.com/@hijublog?is_from_webapp=1&sender_device=pc">
       <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
     </a>
   </div>
@@ -23,9 +23,9 @@
 </div>
 
 ### Check out my social medias:
-  - :movie_camera: <a href="">Youtube.</a>
-  - :link: <a href="">LinkedIn.</a>
-  - :iphone: <a href="">Tiktok.</a>
+  - :movie_camera: <a href="https://www.youtube.com/channel/UCMplfZd5BxMHy3Y6OVvLblg">Youtube.</a>
+  - :link: <a href="https://www.linkedin.com/in/v%C4%83n-huy-du-a68821258/">LinkedIn.</a>
+  - :iphone: <a href="https://www.tiktok.com/@hijublog?is_from_webapp=1&sender_device=pc">Tiktok.</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huydu20)](https://github.com/anuraghazra/github-readme-stats)
 
